@@ -214,17 +214,14 @@ body, html {
         line-height: 70px;
         color: #585858; }
       .deliver__form input:-ms-input-placeholder {
-        padding: 0 0 0 15px;
         font-size: 16px;
         line-height: 70px;
         color: #585858; }
       .deliver__form input::-ms-input-placeholder {
-        padding: 0 0 0 15px;
         font-size: 16px;
         line-height: 70px;
         color: #585858; }
       .deliver__form input::placeholder {
-        padding: 0 0 0 15px;
         font-size: 16px;
         line-height: 70px;
         color: #585858; }
